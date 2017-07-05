@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #
-# Interactive for AZBox Vuln [PWNAZBox]
+# Interactive shell for AZBox Vuln [PWNAZBox]
 # By Jonatas Fil (Dkr)
 #
 
